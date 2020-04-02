@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AppNews/static/css/main.610b5905.chunk.css",
+    "main.js": "/AppNews/static/js/main.68fbb619.chunk.js",
+    "main.js.map": "/AppNews/static/js/main.68fbb619.chunk.js.map",
+    "runtime-main.js": "/AppNews/static/js/runtime-main.1333743c.js",
+    "runtime-main.js.map": "/AppNews/static/js/runtime-main.1333743c.js.map",
+    "static/js/2.01035b72.chunk.js": "/AppNews/static/js/2.01035b72.chunk.js",
+    "static/js/2.01035b72.chunk.js.map": "/AppNews/static/js/2.01035b72.chunk.js.map",
+    "index.html": "/AppNews/index.html",
+    "precache-manifest.2928b2c145fe871015aa7d83c04bc6b7.js": "/AppNews/precache-manifest.2928b2c145fe871015aa7d83c04bc6b7.js",
+    "service-worker.js": "/AppNews/service-worker.js",
+    "static/css/main.610b5905.chunk.css.map": "/AppNews/static/css/main.610b5905.chunk.css.map",
+    "static/js/2.01035b72.chunk.js.LICENSE.txt": "/AppNews/static/js/2.01035b72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1333743c.js",
+    "static/js/2.01035b72.chunk.js",
+    "static/css/main.610b5905.chunk.css",
+    "static/js/main.68fbb619.chunk.js"
+  ]
+}
