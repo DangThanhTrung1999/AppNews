@@ -5,7 +5,7 @@ import NewsItem from "./NewsItem";
 export default class NewsDetail extends Component {
   dem = 1;
   tinKhac = data.map((value, key) => {
-    if (value.id !== parseInt(this.props.match.params.id,12)) {
+    if (value.id !=this.props.match.params.id,12) {
       if (this.dem <= 3) {
         this.dem++;
         return (
